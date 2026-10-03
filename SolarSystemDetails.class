@@ -1,0 +1,17 @@
+// Source code is decompiled from a .class file using FernFlower decompiler (from Intellij IDEA).
+public class SolarSystemDetails {
+   public SolarSystemDetails() {
+   }
+
+   public static void main(String[] var0) {
+      short var1 = 10485;
+      double var2 = (double)452.75F;
+      byte var4 = 12;
+      char var5 = 'A';
+      System.out.println("--- Rooftop Solar System Details ---");
+      System.out.println("Panel ID: " + var1);
+      System.out.println("Energy Generated: " + var2 + " kWh");
+      System.out.println("Number of Solar Panels: " + var4);
+      System.out.println("System Status: " + var5);
+   }
+}
